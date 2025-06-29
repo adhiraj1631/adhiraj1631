@@ -19,7 +19,7 @@
   <a href="https://www.kaggle.com/adhirajghosal" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/adhirajghosal16_/" target="_blank" rel="noopener noreferrer">
+  <a href="[https://leetcode.com/u/adhirajghosal16_/](https://leetcode.com/u/dPJtK4wS6g/)" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
