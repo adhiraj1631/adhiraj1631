@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning *Advanced Machine Learning, Data Engineering with AWS, Prompt Engineering, MLOps, and Full Stack Python Development.*
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://sites.google.com/view/adhirajdsportfolio/home)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://adhiraj1631.github.io/My-New-Portfolio-2/)
 
 - 💬 Ask me about *Machine learning models, Python-based data science workflows, HTML, CSS, CSS Grid, Flask, MySQL, Pandas, NumPy*
 
